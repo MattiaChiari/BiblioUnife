@@ -1,0 +1,6 @@
+# File di sistema Mac (visto che usi un MacBook)
+.DS_Store
+.AppleDouble
+.LSOverride
+
+connessione.php
