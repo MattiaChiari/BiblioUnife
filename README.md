@@ -20,9 +20,3 @@ L'interfaccia web permette di eseguire operazioni avanzate sul database:
 * **Report e Statistiche:** * Visualizzazione dello storico prestiti di un singolo utente.
   * Monitoraggio dei prestiti attivi filtrati per range di date (o prossimi alla scadenza).
   * Statistiche aggregate: numero di prestiti suddivisi per succursale e numero di libri disponibili per ogni singolo autore.
-
-## 💻 Come avviare il progetto
-
-1. Clona questa repository nella cartella `htdocs` (se usi XAMPP) o nella root del tuo server web locale (es. MAMP).
-   ```bash
-   git clone [https://github.com/tuo-username/BiblioUnife.git](https://github.com/tuo-username/BiblioUnife.git)
